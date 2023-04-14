@@ -1,0 +1,73 @@
+/*SELECTORES*/
+/*selector de etiqueta*/
+#tabla {
+    border-collapse: separate;
+    border-color:rgb(0, 0, 0)
+}
+/*selector comienza con punto*/
+.rojo {
+    background-color: red;
+    color: white;
+    font-size: 16; /*medida*/
+}
+.blanco
+    {
+        background-color: white;
+        color: black;
+        font-size: 16; /*medida*/
+    }
+.verde{
+    background-color: green;
+    color: white;
+    font-size: 16; /*medida*/
+}
+.gris{
+    background-color: gray;
+    color: white;
+    font-size: 16;
+}
+.café {
+    background-color: brown;
+    color: white;
+    font-size: 16;
+}
+.azul {
+    background-color: blue;
+    color: white;
+    font-size: 16;
+}
+.violeta {
+    background-color: violet;
+    color: black;
+    font-size: 16;
+}
+.rosado {
+    background-color: pink;
+    color: black;
+    font-size: 16;
+}
+.amarillo {
+    background-color: yellow;
+    color: black;
+    font-size: 16;
+}
+.turquesa {
+    background-color: turquoise;
+    color: black;
+    font-size: 16;
+}
+.naranjo{
+    background-color: orange;
+    color: black;
+    font-size: 16;
+}
+.purpura{
+    background-color: purple;
+    color: white;
+    font-size: 16;
+}
+.negro {
+    background-color: black;
+    color: white;
+    font-size: 16;
+}
